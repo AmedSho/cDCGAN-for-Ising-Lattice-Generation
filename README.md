@@ -1,0 +1,1 @@
+# cDCGAN-for-Ising-Lattice-Generation
